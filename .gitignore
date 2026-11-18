@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.bak
+
+# Build / test artifacts
+/bin/
+coverage.out
+coverage.html
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Local workspace files
+go.work
+go.work.sum
